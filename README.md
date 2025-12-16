@@ -2,5 +2,6 @@ Two classes, PDB and CIF, both can read either of the extensions and can also re
 
 dependencies:
 
-pandas == 2.2.3
-python == 3.13.2
+1. pandas == 2.2.3
+
+2. python == 3.13.2
